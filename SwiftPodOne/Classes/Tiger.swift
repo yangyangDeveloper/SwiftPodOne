@@ -7,6 +7,13 @@
 
 import UIKit
 
-class Tiger: NSObject {
-
+@objc public class Tiger: NSObject {
+    
+    @objc public func run() {
+        print("tiger run")
+    }
+    func sleep() {
+        print("tiger sleep")
+    }
+    
 }
