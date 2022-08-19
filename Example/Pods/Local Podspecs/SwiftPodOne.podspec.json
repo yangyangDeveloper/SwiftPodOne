@@ -12,7 +12,7 @@
     "yangyangDeveloper": "zyydeveloper@163.com"
   },
   "source": {
-    "git": "https://github.com/yangyangDeveloper/SwiftPodOne.git",
+    "git": "git@github.com:yangyangDeveloper/SwiftPodOne.git",
     "tag": "0.1.0"
   },
   "platforms": {
