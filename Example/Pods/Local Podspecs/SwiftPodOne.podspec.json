@@ -1,0 +1,22 @@
+{
+  "name": "SwiftPodOne",
+  "version": "0.1.0",
+  "summary": "OC创建的pod 被用于Swift pod 引入依赖",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yangyangDeveloper/SwiftPodOne",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yangyangDeveloper": "zyydeveloper@163.com"
+  },
+  "source": {
+    "git": "https://github.com/yangyangDeveloper/SwiftPodOne.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "SwiftPodOne/Classes/**/*"
+}
